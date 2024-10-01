@@ -1,6 +1,6 @@
 # Калькулятор
 
-![Calculator](https://img.icons8.com/color/96/000000/calculator.png)
+![Calculator](https://banner2.cleanpng.com/20180130/bzw/kisspng-icon-design-icon-black-calculator-5a7122556cc417.8948306315173637974455.jpg)
 
 ## Описание
 
